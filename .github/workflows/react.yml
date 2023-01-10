@@ -27,5 +27,5 @@ jobs:
 
       - name: Build
         run: |
-          cd /docs/main/
+          cd ./main/
           npm start
